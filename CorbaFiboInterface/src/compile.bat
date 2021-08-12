@@ -2,7 +2,7 @@
 SET JAVA_HOME="C:\Program Files\Java\jdk1.8.0_111"
 
 :: direccion de las fuentes SRC de proyecto netbeans IDL "CorbaFiboInterface"
-SET PATH_IDL="D:\dev\workspace1902\repos\corba\CorbaFiboInterface\src"
+SET PATH_IDL="C:\Users\IRM-01\Documents\Uni K019\6to\Sistemas Distribuidos\Proyecto\Interfaces_Java\CORBA\CorbaFiboInterface\src\src"
 
 :: nombre del archivo IDL
 SET IDL_NAME=fibonacci.idl
